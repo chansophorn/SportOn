@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "661340605590",
+    "firebase_url": "https://sporton-deecd.firebaseio.com",
+    "project_id": "sporton-deecd",
+    "storage_bucket": "sporton-deecd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661340605590:android:a192f120fda62eae",
+        "android_client_info": {
+          "package_name": "com.sporton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661340605590-gg5qvohmuk6pov580o34k76ovu1sk6pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXDXUshnUnGDX4yCs2YDM8a24_tMK9wd4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
